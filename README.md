@@ -5,3 +5,5 @@ It adds:
 * A new turret
 * A new unit
 * A new mech
+* egg
+* mod loading errors
