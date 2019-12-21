@@ -1,0 +1,38 @@
+{
+	"type": "BurstTurret",
+	"health": 450,
+	"size": 3,
+	"reload": 30,
+	"range": 200,
+	"rotatespeed": 15,
+	"burstSpacing": 5,
+	"maxAmmo": 10,
+	"ammo": {
+		"vbuck": {
+			"type": "BasicBulletType",
+			"speed": 10,
+			"damage": 75,
+			"bulletWidth": 16,
+			"bulletHeight": 24,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "coreLand",
+			"ammoMultiplier": 5,
+			"homingPower": 3,
+			"homingRange": 30,
+			"splashDamageRadius": 5,
+			"splashDamage": 20,
+			"knockback": 1,
+			"hitShake": 0.5,
+			"bulletSprite": "vbucks-vbuck-bullet",
+			"lightining": 10,
+			"lightningLength": 3
+		}
+	},
+	"requirements": [
+		"titanium/20",
+		"thorium/30",
+		"vbuck/5"
+	],
+	"category": "turret",
+	"research": "salvo"
+}

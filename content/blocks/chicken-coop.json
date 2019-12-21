@@ -1,0 +1,20 @@
+{
+	"health": 200,
+	"size": 2,
+	"hasPower": true,
+	"consumes": {
+		"power": {
+			"usage": 0.5,
+			"capacity": 70
+		}
+	},
+	"requirements": [
+		"titanium/20",
+		"plastanium/5",
+		"vbuck/5"
+	],
+	"category": "crafting",
+	"research": "vbuck-forge",
+	"update": true,
+	"solid": true
+}

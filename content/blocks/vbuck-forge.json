@@ -1,0 +1,30 @@
+{
+	"type": "GenericCrafter",
+	"health": 200,
+	"size": 3,
+	"liquidCapacity": 10,
+	"hasLiquids": true,
+	"hasPower": true,
+	"consumes": {
+		"liquid": {
+			"liquids": [
+				"hypercoolant/3",
+				"molten-vbucks/3"
+			],
+			"liquid": "moltne-vbucks/3"
+		},
+		"power": {
+			"usage": 1.6666666666,
+			"capacity": 150
+		}
+	},
+	"outputItem": "vbuck/3",
+	"requirements": [
+		"titanium/100",
+		"graphite/150",
+		"thorium/50",
+		"silicon/50"
+	],
+	"category": "crafting",
+	"research": "vbuck-smelter"
+}
