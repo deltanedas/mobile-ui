@@ -9,10 +9,6 @@
 	"updateEffect": "lightningCharge",
 	"consumes": {
 		"liquid": {
-			"liquids": [
-				"oil/1",
-				"water/1"
-			],
 			"liquid": "oil/1"
 		},
 		"power": {

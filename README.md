@@ -7,3 +7,8 @@ It adds:
 * A new mech
 * egg
 * mod loading errors
+
+# todo
+* make vbuck forge take hypercoolant too
+* make hypercoolant take water and oil
+* make egg work

@@ -7,11 +7,7 @@
 	"hasPower": true,
 	"consumes": {
 		"liquid": {
-			"liquids": [
-				"hypercoolant/3",
-				"molten-vbucks/3"
-			],
-			"liquid": "moltne-vbucks/3"
+			"liquid": "molten-vbucks/3"
 		},
 		"power": {
 			"usage": 1.6666666666,
