@@ -1,0 +1,1 @@
+Vars.mobile = !Vars.mobile;
