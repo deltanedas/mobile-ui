@@ -3,5 +3,6 @@
 	"displayName": "[orange]Mobile UI[]",
 	"author": "DeltaNedas",
 	"description": "Enables mobile UI if on desktop, or disables it on mobile.",
-	"version": "1.0.0"
+	"version": "1.0.1",
+	"hidden": true
 }
