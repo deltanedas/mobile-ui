@@ -3,6 +3,7 @@
 	"displayName": "[orange]Mobile UI[]",
 	"author": "DeltaNedas",
 	"description": "Enables mobile UI if on desktop, or disables it on mobile.",
-	"version": "1.0.1",
+	"version": "2.0.0",
+	"minGameVersion": 105,
 	"hidden": true
 }
